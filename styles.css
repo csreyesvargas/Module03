@@ -1,0 +1,95 @@
+body {
+  font-family: Times, "Times New Roman", serif;
+  margin: 20px;
+  background-image: url("WidgetCoLogo.gif");
+  background-repeat: no-repeat;
+  background-position: center 40%;
+  background-attachment: fixed;
+  line-height: 1.4;
+}
+
+header {
+  text-align: center;
+  font-variant: small-caps;
+  font-size: 12px;
+  border-top: 1px solid black;
+  border-bottom: 1px solid black;
+  border-right: 20px solid black;
+  padding: 5px 0;
+  margin-bottom: 10px;
+  margin-right: 5px;
+  font-family: Times, serif;
+}
+
+aside {
+  float: right;
+  width: 180px;
+  margin-left: 20px;
+  margin-right: 5px;
+  margin-top: -10px;
+  padding-top: 5px;
+  font-size: 12px;
+  line-height: 1.3;
+  font-weight: normal;
+  font-family: Times, serif;
+  border-right: 20px solid #444466;
+  padding-right: 10px;
+  text-align: right;
+}
+
+h1 {
+  font-size: 40px;
+  font-family: Times, "Times New Roman", serif;
+  font-weight: bold;
+  margin: 15px 0 20px 0;
+  line-height: 1;
+}
+
+h2 {
+  font-style: italic;
+  font-size: 24px;
+  font-weight: bold;
+  text-align: center;
+  margin: 20px 0 5px 0;
+  clear: both;
+  line-height: 1.1;
+}
+
+article {
+  margin-top: 30px;
+  padding: 0 80px;
+}
+
+p {
+  text-align: justify;
+  margin: 10px 0;
+}
+
+section {
+  background-color: #ffffee;
+  padding: 10px 15px;
+  margin: 30px 0;
+  border: 3px solid #008001;
+  font-family: Times, "Times New Roman", serif;
+  border-left: 25px solid #008001;
+}
+
+a {
+  color: blue;
+  text-decoration: underline;
+}
+
+footer {
+  text-align: right;
+  font-size: 12px;
+  margin-top: 15px;
+  padding-top: 5px;
+  font-style: italic;
+  color: #999;
+  border-top: 1px solid #999;
+}
+
+footer a {
+  color: #666;
+  text-decoration: underline;
+}
